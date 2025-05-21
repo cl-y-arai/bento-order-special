@@ -21,6 +21,13 @@ export const bentoOptions: Bento[] = [
     price: 600,
     image: 'https://images.pexels.com/photos/6646351/pexels-photo-6646351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     type: 'chinese'
+  },
+  {
+    id: 'thai',
+    name: 'タイ風弁当',
+    price: 550,
+    image: 'https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    type: 'thai'
   }
 ];
 

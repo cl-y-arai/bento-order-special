@@ -3,7 +3,7 @@ export interface Bento {
   name: string;
   price: number;
   image: string;
-  type: 'western' | 'japanese' | 'chinese';
+  type: 'western' | 'japanese' | 'chinese' | 'thai';
 }
 
 export interface Department {
