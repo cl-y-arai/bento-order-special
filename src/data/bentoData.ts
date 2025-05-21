@@ -28,6 +28,13 @@ export const bentoOptions: Bento[] = [
     price: 550,
     image: 'https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     type: 'thai'
+  },
+  {
+    id: 'vietnamese',
+    name: 'ベトナム風弁当',
+    price: 520,
+    image: 'https://images.pexels.com/photos/1234535/pexels-photo-1234535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    type: 'vietnamese'
   }
 ];
 
